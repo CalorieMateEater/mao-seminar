@@ -8,6 +8,10 @@ https://elmas3.github.io/mao-seminar/
 エルマス
 わかば
 
+# Something
+なにか
+どれか
+
 # ディレクトリ構成
 ```
 seminar/
